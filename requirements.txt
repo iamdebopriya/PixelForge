@@ -1,0 +1,16 @@
+# Core Dependencies
+streamlit
+pandas
+numpy
+
+# Image Processing
+Pillow
+
+# Data Visualization
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Optional: For better performance
+scipy
