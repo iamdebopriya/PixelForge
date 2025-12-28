@@ -66,7 +66,7 @@ header, footer {
 # =========================
 # MODEL SETUP
 # =========================
-MODEL_PATH = "model/waste_classifier_robust.h5"
+MODEL_PATH = "waste_classifier_robust.h5"
 IMG_SIZE = (224, 224)
 
 @st.cache_resource
