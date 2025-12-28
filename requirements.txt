@@ -1,16 +1,5 @@
-# Core Dependencies
 streamlit
-pandas
+tensorflow
 numpy
-
-# Image Processing
-Pillow
-
-# Data Visualization
-plotly
-
-# Machine Learning
-scikit-learn
-
-# Optional: For better performance
-scipy
+pillow
+h5py
